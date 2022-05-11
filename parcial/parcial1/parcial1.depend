@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1652282101 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+
+1652282230 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\notebooks.h
+
+1652280288 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+
